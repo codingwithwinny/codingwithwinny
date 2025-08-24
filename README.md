@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm Winston, a Support Engineer with 5+ years of experience in customer support and SaaS platforms. Currently transitioning into Salesforce development, I've completed Admin training and am actively building skills in Apex and Lightning Web Components (LWC). I love solving real-world problems through automation and intuitive UI.
+I'm Winston, a Support Engineer with 5+ years of experience in SaaS platforms. Currently transitioning into Salesforce development, I've completed Admin training and am actively building skills in Apex and Lightning Web Components (LWC). I love solving real-world problems through automation and intuitive UI.
 
 ---
 
