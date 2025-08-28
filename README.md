@@ -4,64 +4,68 @@
 ---
 
 ### 👨‍💻 About Me
-I'm Winston, a Support Engineer with 5+ years of experience in SaaS platforms. Currently transitioning into Salesforce development, I've completed Admin training and am actively building skills in Apex and Lightning Web Components (LWC). I love solving real-world problems through automation and intuitive UI.
+I'm Winston, a Support Engineer with 5+ years of experience in SaaS platforms.  
+Currently transitioning into **Salesforce development**, I’ve completed Admin training and am actively building skills in **Apex** and **Lightning Web Components (LWC)**.  
+
+I enjoy creating **real-world solutions through automation and clean UI** — blending my support expertise with hands-on development.
 
 ---
 
 ### 🛠️ Skills & Technologies
-- **Salesforce Admin**
-- **Apex**
-- **Lightning Web Components (LWC)**
+- **Salesforce Admin | Apex | Lightning Web Components (LWC)**
 - **HTML, CSS, JavaScript**
-- **React**
+- **React & Progressive Web Apps (PWA)**
+- **Node.js (basic)**
+- **Firebase Hosting & Authentication**
 
 ---
 
-### 🚀 Featured Project
-- [Ancys Expense Tracker](#)  
-  <sub>A personal finance tracker built with modern web tech.</sub>
+### 🚀 Featured Projects
+#### 📊 Ancy Expense Tracker *(PWA)*
+A **personal finance tracker** designed to log, categorize, and visualize expenses.  
+- Built with **React + Firebase** for real-time data sync and Google Authentication.  
+- Optimized for **offline-first experience** using PWA features.  
+- Focused on simplicity and insights — helping users take control of their spending.  
+
+#### 🏋️ Gym Progress Tracker *(PWA)*
+A **fitness companion app** that helps track workouts, log weights, and monitor progress.  
+- Developed with **React + IndexedDB (local storage)** for offline support.  
+- Responsive and mobile-first design for use inside the gym.  
+- Inspired by my own fitness journey 💪 — turning personal needs into real-world solutions.  
+
+> These projects are not just side apps — they’re how I’m **learning and applying React, JavaScript, and modern web tech** to build efficient, scalable solutions.  
+This hands-on learning directly supports my transition into **Salesforce development**, where I apply similar principles of UI, automation, and performance.
 
 ---
 
-### 🌱 Passions & Interests
-- Building Salesforce automation solutions
-- Web app development with React
-- Exploring AI-powered tools
-- **Fitness & gym** 💪
-- **Outdoor sports**
-- **Cooking** 🍳
-- **Travel** ✈️
+### 🌱 Current Learning Path
+- Deepening Salesforce development: **Apex, LWC, Flows**  
+- Enhancing full-stack skills: **React + Firebase + Node.js**  
+- Exploring best practices in **scalable, efficient PWA design**
+
+---
+
+### 🌟 Passions & Interests
+- Building Salesforce automation & custom solutions  
+- Web app development with React & PWAs  
+- Exploring AI-powered tools  
+- **Fitness & gym** 💪 | **Outdoor sports** | **Cooking** 🍳 | **Travel** ✈️  
 
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](#)  
-- [GitHub](https://github.com/codingwithwinny)
+- [LinkedIn](linkedin.com/in/ancywinstondsilva)  
+- [GitHub](https://github.com/codingwithwinny)  
 
-<!-- Add your portfolio/personal website here in the future! -->
+<!-- Future portfolio site can go here! -->
 
 ---
 
-### ⚡ Fun Fact / Motto
-**“Always learning, always building.”** 🚀
+### ⚡ Motto
+**“Always learning, always building.”** 🚀  
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codingwithwinny&show_icons=true&hide_title=true" alt="Winston's GitHub stats" />
 </p>
-
-<!--
-**codingwithwinny/codingwithwinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
