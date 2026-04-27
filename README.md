@@ -1,71 +1,64 @@
 <h1 align="center">Hi, I'm Winston 👋</h1>
-<h3 align="center">Support Engineer → Aspiring Salesforce Developer</h3>
+<h3 align="center">Building AI products in public</h3>
 
 ---
 
-### 👨‍💻 About Me
-I'm Winston, an Engineer with 5+ years of experience in SaaS platforms.  
-Currently transitioning into **Salesforce development**, I’ve completed Admin training and am actively building skills in **Apex** and **Lightning Web Components (LWC)**.  
+### About me
 
-I enjoy creating **real-world solutions through automation and clean UI** — blending my support expertise with hands-on development.
+I build AI-powered products and document the decisions behind them as I go.
 
----
+Currently focused on shipping production AI features, practicing PM craft (public ADRs, transparent CHANGELOGs, scope discipline), and bridging the gap between engineering, product, and enterprise client work.
 
-### 🛠️ Skills & Technologies
-- **Salesforce Admin | Apex | Lightning Web Components (LWC)**
-- **HTML, CSS, JavaScript**
-- **React & Progressive Web Apps (PWA)**
-- **Node.js (basic)**
-- **Firebase Hosting & Authentication**
+The question I keep returning to: **how do you build AI products that actually solve user problems instead of just demoing well?**
 
 ---
 
-### 🚀 Featured Projects
-#### 📊 Ancy Expense Tracker *(PWA)*
-A **personal finance tracker** designed to log, categorize, and visualize expenses.  
-- Built with **React + Firebase** for real-time data sync and Google Authentication.  
-- Optimized for **offline-first experience** using PWA features.  
-- Focused on simplicity and insights — helping users take control of their spending.  
+### Featured project
 
-#### 🏋️ Gym Progress Tracker *(PWA)*
-A **fitness companion app** that helps track workouts, log weights, and monitor progress.  
-- Developed with **React + IndexedDB (local storage)** for offline support.  
-- Responsive and mobile-first design for use inside the gym.  
-- Inspired by my own fitness journey 💪 — turning personal needs into real-world solutions.  
+#### Ancy Expense Tracker — `ancy.co.in`
 
-> These projects are not just side apps — they’re how I’m **learning and applying React, JavaScript, and modern web tech** to build efficient, scalable solutions.  
-This hands-on learning directly supports my transition into **Salesforce development**, where I apply similar principles of UI, automation, and performance.
+A personal expense PWA with three production AI features. Built with React, Firebase, and the Anthropic Claude API.
 
----
+**Shipped AI features:**
+- **Natural-language quick-add** — type *"500 on groceries, 200 on coffee"* → parsed into structured expense records via Claude API
+- **Bank statement import** — PDF/CSV upload → AI-categorized transactions via Cloud Functions
+- **AI Insights engine** — anomaly detection + spending personality archetypes from your data
 
-### 🌱 Current Learning Path
-- Deepening Salesforce development: **Apex, LWC, Flows**  
-- Enhancing full-stack skills: **React + Firebase + Node.js**  
-- Exploring best practices in **scalable, efficient PWA design**
+**Practicing PM craft in public:**
+- [Decision records (ADRs)](https://github.com/codingwithwinny/expense-tracker/tree/v2-development/docs/decisions) — every meaningful decision documented with options considered, trade-offs accepted, and revisit conditions
+- [Public CHANGELOG](https://github.com/codingwithwinny/expense-tracker/blob/v2-development/CHANGELOG.md) — what shipped, the user problem it solves, what was deliberately scoped out
+- Scope discipline through "not shipping yet" lists
+
+**Stack:** React, Vite, Tailwind CSS, Firebase (Firestore, Auth, Cloud Functions, Hosting), Anthropic Claude API, Framer Motion, Recharts.
+
+**Repo →** [`expense-tracker`](https://github.com/codingwithwinny/expense-tracker)
 
 ---
 
-### 🌟 Passions & Interests
-- Building Salesforce automation & custom solutions  
-- Web app development with React & PWAs  
-- Exploring AI-powered tools  
-- **Fitness & gym** 💪 | **Outdoor sports** | **Cooking** 🍳 | **Travel** ✈️  
+### How I work
+
+- **Ship-first, polish-second.** I'd rather ship a v0.1 that works than a v1.0 that doesn't exist.
+- **Decisions over code.** Code can be rewritten in a day; rebuilding the reasoning behind a decision takes weeks.
+- **Constraints sharpen products.** A weekly chart view sounds nice — until you realize people budget monthly. Most "useful features" aren't.
+- **AI bugs are usually plumbing bugs.** Most AI features fail at JSON parsing, not at the model.
 
 ---
 
-### 📫 Connect With Me
-- [LinkedIn](linkedin.com/in/ancywinstondsilva)  
-- [GitHub](https://github.com/codingwithwinny)  
+### Currently learning
 
-<!-- Future portfolio site can go here! -->
+- Production patterns for shipping AI products (cost, latency, reliability, eval)
+- Product strategy & roadmap thinking
+- Prompt engineering for structured output
 
 ---
 
-### ⚡ Motto
-**“Always learning, always building.”** 🚀  
+### Connect
+
+- **LinkedIn** → [linkedin.com/in/ancywinstondsilva](https://linkedin.com/in/ancywinstondsilva)
+- **GitHub** → [github.com/codingwithwinny](https://github.com/codingwithwinny)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingwithwinny&show_icons=true&hide_title=true" alt="Winston's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codingwithwinny&show_icons=true&hide_title=true&theme=dark" alt="Winston's GitHub stats" />
 </p>
